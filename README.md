@@ -1,0 +1,1 @@
+# Class-Generator-with-canonical-form
