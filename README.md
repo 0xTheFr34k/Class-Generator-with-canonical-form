@@ -1,17 +1,23 @@
-## Simple Class-Generator with orthodox canonical form
+## Simple Class Generator with orthodox canonical form
 
-#Setup as alias :
+# Setup as alias :
 
 ```bash
+
 git clode https://github.com/BleedTheFreak/Class-Generator-with-canonical-form ~/Class-Generator
+
 ```
 
 ```bash
+
 echo "alias class='python3 ~/Class-Generator/GeneratClass.py'" >> ~/.zshrc
+
 ```
 
 ```bash
+
 source ~/.zshrc
+
 ```
 
 Now you can use it as command in terminal
@@ -25,8 +31,6 @@ You will got something like this
 # Fixed.hpp
 
 ```c++
-
-// Fixed.hpp
 
 #ifndef FIXED_CLASS
 #define FIXED_CLASS
@@ -51,8 +55,6 @@ private:
 # Fixed.cpp
 
 ```c++
-
-// Fixed.cpp 
 
 #include "Fixed.hpp"
 
