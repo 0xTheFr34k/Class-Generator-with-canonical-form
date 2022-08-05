@@ -4,7 +4,7 @@
 
 ```bash
 
-git clode https://github.com/BleedTheFreak/Class-Generator-with-canonical-form ~/Class-Generator
+git clone https://github.com/BleedTheFreak/Class-Generator-with-canonical-form ~/Class-Generator
 
 ```
 
