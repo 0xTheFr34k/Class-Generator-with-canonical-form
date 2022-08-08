@@ -23,7 +23,7 @@ source ~/.zshrc
 Now you can use it as command in terminal
 
 ```bash
-class Fixed
+class Fixed OR class Name1,Name2....
 ```
 
 You will got something like this
